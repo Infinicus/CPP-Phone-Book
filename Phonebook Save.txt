@@ -1,0 +1,48 @@
+1
+Nama: Alpha
+Nomor Telpon: 085700192422
+Organisasi: UGM
+Tags: 
+
+2
+Nama: Lambda
+Nomor Telpon: 08291382111
+Organisasi: UGM
+Tags: Bongo3
+
+3
+Nama: Giga Hidjrika
+Nomor Telpon: 0123138999
+Organisasi: Ompo
+Tags: Bongo
+
+4
+Nama: Roger
+Nomor Telpon: 0812345678
+Organisasi: OmpoXSquare
+Tags: Bongo
+
+5
+Nama: NewContact
+Nomor Telpon: 08123456789
+Organisasi: UGM
+Tags: Bongo4
+
+6
+Nama: TestDrive
+Nomor Telpon: 012390123901239012390
+Organisasi: UGM
+Tags: Bogno
+
+7
+Nama: Azieru
+Nomor Telpon: 01238128318
+Organisasi: UGM
+Tags: Bongo
+
+8
+Nama: Giga
+Nomor Telpon: 123081203280
+Organisasi: UGM
+Tags: BONG
+
